@@ -6,7 +6,7 @@ A simple bash script for downloading and converting to MP3 using FFMPEG and YT-D
 # How to use: 
 Call the script with 1 argument, the youtube video that you want to dowload:
 example:
- ```./downloadandconvert.sh https://www.youtube.com/watch\?v\=dQw4w9WgXcQ```
+ ```./downloadandconvert.sh https://youtu.be/dQw4w9WgXcQ```
 
 # Packages needed:
 
